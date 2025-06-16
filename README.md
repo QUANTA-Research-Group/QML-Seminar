@@ -8,6 +8,8 @@ It takes place on a biweekly basis and aims to take participants from a solid ma
 
 1. [Data Driven Quantum Mechanics](https://youtu.be/4goVMyzb7Kc?si=wrEGJ9rNaKrIc2bi) - May 10, 2025
 2. [Kernel Method, Support Vector Machines (SVM) and Quantum Feature Map](https://youtu.be/K5yJwRAuunc?si=r8R9aSdn12ImfPlL) - May 31, 2025.
+3. [Classical Simulation of an Entangled Quantum Kernel and Implementation of a Variational Quantum Classifier](https://youtu.be/WkYHnW1jtGo?si=ahvqvAO9ODMxeRAP) - Jun 14, 2025.
+4. Keynote
 
 # Bibliography
 
